@@ -1,5 +1,5 @@
 package com.capgemini.hanoi;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class HanoiAplication {
 
@@ -7,8 +7,6 @@ public class HanoiAplication {
 	{
 		/*
 		Hanoi hanoiObject = new Hanoi();
-		
-		
 		
 		System.out.println("Good luck.");
 		

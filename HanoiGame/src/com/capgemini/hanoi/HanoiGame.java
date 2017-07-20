@@ -7,7 +7,7 @@ public class HanoiGame
 	String name = "";
 	int numberOfDiscks;
 	
-	public void game()
+	public void play()
 	{
 	Scanner rObject = new Scanner(System.in);
 	
